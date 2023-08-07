@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="UseCases\Product\CreateProduct\" />
+    <Folder Include="UseCases\Product\ListProducts\" />
+    <Folder Include="UseCases\Product\UpdateProduct\" />
+    <Folder Include="UseCases\ShoppingCart\" />
+    <Folder Include="UseCases\User\CreateUser\" />
+    <Folder Include="UseCases\User\DeleteUser\" />
+    <Folder Include="UseCases\User\UpdateUser\" />
+  </ItemGroup>
+
+</Project>

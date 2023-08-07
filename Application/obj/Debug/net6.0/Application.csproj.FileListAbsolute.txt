@@ -1,0 +1,17 @@
+C:\Learn\learning-asp.net-cc-cqrs\Application\bin\Debug\net6.0\Application.deps.json
+C:\Learn\learning-asp.net-cc-cqrs\Application\bin\Debug\net6.0\Application.dll
+C:\Learn\learning-asp.net-cc-cqrs\Application\bin\Debug\net6.0\Application.pdb
+C:\Learn\learning-asp.net-cc-cqrs\Application\bin\Debug\net6.0\Domain.dll
+C:\Learn\learning-asp.net-cc-cqrs\Application\bin\Debug\net6.0\Infrastructure.dll
+C:\Learn\learning-asp.net-cc-cqrs\Application\bin\Debug\net6.0\Domain.pdb
+C:\Learn\learning-asp.net-cc-cqrs\Application\bin\Debug\net6.0\Infrastructure.pdb
+C:\Learn\learning-asp.net-cc-cqrs\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+C:\Learn\learning-asp.net-cc-cqrs\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learn\learning-asp.net-cc-cqrs\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+C:\Learn\learning-asp.net-cc-cqrs\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+C:\Learn\learning-asp.net-cc-cqrs\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+C:\Learn\learning-asp.net-cc-cqrs\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+C:\Learn\learning-asp.net-cc-cqrs\Application\obj\Debug\net6.0\Application.dll
+C:\Learn\learning-asp.net-cc-cqrs\Application\obj\Debug\net6.0\refint\Application.dll
+C:\Learn\learning-asp.net-cc-cqrs\Application\obj\Debug\net6.0\Application.pdb
+C:\Learn\learning-asp.net-cc-cqrs\Application\obj\Debug\net6.0\ref\Application.dll
